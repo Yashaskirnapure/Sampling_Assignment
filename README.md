@@ -6,17 +6,16 @@ There are no null values or duplicate entries. All the features are numeric and 
 ## Size of Sample:
 ### The size of the sample was calculated using the following formula:-
 $$
-\begin{align*}
-    n = Z^2*p*(1-p)/E^2
-\end{align*}
+n = Z^2 \cdot p \cdot (1-p) / E^2
 $$
 ### Where, 
 $$
-    n = size of sample \\
-    Z = z-score of sample \\
-    p = std. deviation \\
-    E = margin of error 
+n = \text{size of sample} \\
+Z = \text{z-score of sample} \\
+p = \text{std. deviation} \\
+E = \text{margin of error}
 $$
+
 ## Creating samples:
 ### In total of 4 samples of size 385 are created using sampling the following sampling techniques-
 1. Simple Random Sampling
